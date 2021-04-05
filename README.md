@@ -1,5 +1,12 @@
-### Hey! My name is Mateus, nice to meet you! 👋
+### Hi there, I am Mateus! 👋
 
-I'm a front-end developer. I love design and programming. I'm based in Brasília, Brazil.
+## About me
 
-### Find me in the social media.
+*I'm a front-end developer.*
+*I'm studying analysis and systems development at **IESB***
+*I love to be creative in my projects.*
+*Currently learning React *
+
+### Find me on social media.
+[Linkedin](https://www.linkedin.com/in/mateusmoov/)
+[Twitter](https://twitter.com/mateusmoov)
