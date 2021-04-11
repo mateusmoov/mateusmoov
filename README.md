@@ -4,8 +4,8 @@
 
 - *Currently learning React*
 - *I love to be creative in my projects.*
-- *I'm studying analysis and systems development at **IESB***
-- *I'm make live coding on [Twitch](https://www.twitch.tv/moov_) studying front end or other stuffs.*
+- *I'm studying systems analysis and development at **IESB***
+- *I live code on [Twitch](https://www.twitch.tv/moov_) studying front-end and other topics.*
 
 ## ![Contact](https://i.imgur.com/ocBh28K.gif)
 - [Linkedin](https://www.linkedin.com/in/mateusmoov/)
