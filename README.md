@@ -2,7 +2,7 @@
 
 ## ![Aboutme](https://i.imgur.com/m15HBrw.gif)
 
-- *Currently learning React*
+- *Currently learning Vue*
 - *I love to be creative in my projects.*
 - *I live code on [Twitch](https://www.twitch.tv/moov_) studying front-end and other topics.*
 
