@@ -10,3 +10,5 @@
 ## ![Contact](https://i.imgur.com/ocBh28K.gif)
 - [Linkedin](https://www.linkedin.com/in/mateusmoov/)
 - [Twitter](https://twitter.com/moovhe4rt)
+- [Instagram](https://www.instagram.com/moovhe4rt/)
+- [Tiktok](https://www.tiktok.com/@moovhe4rt)
